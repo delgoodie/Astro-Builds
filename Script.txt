@@ -1,0 +1,4 @@
+zip...
+gh release create v1.0.3 Windows.zip -t v1.0.3 --latest
+
+windows, linux
